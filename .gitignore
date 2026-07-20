@@ -1,0 +1,56 @@
+# Unreal Engine generated folders
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+
+# Visual Studio files
+.vs/
+.vscode/
+
+# Build files
+*.sln
+*.suo
+*.opensdf
+*.opendb
+*.VC.db
+*.VC.VC.opendb
+
+# Unreal generated project files
+*.xcodeproj
+*.xcworkspace
+
+# Compiled binaries
+*.dll
+*.exe
+*.lib
+*.app
+*.dylib
+
+# Debug symbols
+*.pdb
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE settings
+*.user
+*.userosscache
+*.sdf
+*.suo
+
+# Unreal autosaves
+*_AutoSave.upk
+*_AutoSave.umap
+
+# Logs
+*.log
+Saved/Logs/
+
+# Crash reports
+Saved/Crashes/
+
+# Temporary files
+*.tmp
+*.temp
