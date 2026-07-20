@@ -2,10 +2,10 @@
 /shelf/
 /workspace.xml
 # Rider 忽略的文件
-/modules.xml
-/.idea.NewAOE.iml
 /projectSettingsUpdater.xml
+/.idea.NewAOE.iml
 /contentModel.xml
+/modules.xml
 # 基于编辑器的 HTTP 客户端请求
 /httpRequests/
 # 已忽略包含查询文件的默认文件夹
